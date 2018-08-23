@@ -759,3 +759,17 @@ Binding(ALT+CTRL+Y,
 java.lang.IllegalArgumentException: timeout value is negative
 	at java.lang.Thread.sleep(Native Method)
 	at org.eclipse.equinox.internal.p2.updatechecker.UpdateChecker$UpdateCheckThread.run(UpdateChecker.java:87)
+
+!ENTRY mergedoc.encoding 2 0 2018-08-23 14:18:45.801
+!MESSAGE リソース C:\Users\touch\Desktop はファイルではありません。
+
+!ENTRY mergedoc.encoding 2 0 2018-08-23 14:18:45.802
+!MESSAGE リソース C:\Users\touch\Desktop はファイルではありません。
+
+!MESSAGE リソース C:\Users\touch\Desktop はファイルではありません。
+
+!ENTRY mergedoc.encoding 2 0 2018-08-23 14:18:52.991
+!MESSAGE リソース C:\Users\touch\Desktop はファイルではありません。
+
+!ENTRY mergedoc.encoding 2 0 2018-08-23 14:18:52.992
+!MESSAGE リソース C:\Users\touch\Desktop はファイルではありません。

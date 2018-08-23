@@ -1,6 +1,6 @@
 
 public class Program {
-
+	//void
 	public static void Main(String[] args){
 		int a = 1;
 		int b = 2;
@@ -18,7 +18,7 @@ public class Program {
 		a *= (b-1);
 		System.out.println(a);
 
-		//D csaytrew
+		//D
 		a = 0;
 		b = 0;
 		c = 0;
