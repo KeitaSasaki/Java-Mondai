@@ -1,0 +1,25 @@
+
+public class Program {
+	public static void Main(){
+		int a = 1;
+		int b = 2;
+		int c = 3;
+
+		//A
+		a += b;
+		System.out.println(a);
+
+		//B
+		a -= 1;
+		System.out.println(a);
+
+		//C
+		a *= (b-1);
+		System.out.println(a);
+
+		//D
+		a = 0;
+		b = 0;
+		c = 0;
+	}
+}
