@@ -920,3 +920,15 @@ Binding(ALT+CTRL+Y,
 
 !ENTRY org.eclipse.jface.text 2 0 2018-08-23 14:47:13.470
 !MESSAGE 重複テンプレート ID: 'zigen.plugin.db.template.sql.case'
+
+!ENTRY org.eclipse.jface.text 2 0 2018-08-23 15:22:15.654
+!MESSAGE 重複テンプレート ID: 'org.eclipse.wst.xslt.templates.xpath.boolean'
+
+!ENTRY org.eclipse.jface.text 2 0 2018-08-23 15:22:15.662
+!MESSAGE 重複テンプレート ID: 'zigen.plugin.db.template.sql.case'
+
+!ENTRY org.eclipse.jface.text 2 0 2018-08-23 15:22:51.726
+!MESSAGE 重複テンプレート ID: 'org.eclipse.wst.xslt.templates.xpath.boolean'
+
+!ENTRY org.eclipse.jface.text 2 0 2018-08-23 15:22:51.732
+!MESSAGE 重複テンプレート ID: 'zigen.plugin.db.template.sql.case'
