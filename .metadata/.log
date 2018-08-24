@@ -1583,3 +1583,9 @@ Binding(ALT+CTRL+Y,
 java.lang.IllegalArgumentException: timeout value is negative
 	at java.lang.Thread.sleep(Native Method)
 	at org.eclipse.equinox.internal.p2.updatechecker.UpdateChecker$UpdateCheckThread.run(UpdateChecker.java:87)
+
+!ENTRY mergedoc.encoding 2 0 2018-08-24 15:08:56.763
+!MESSAGE リソース '/TsuukaTest_2/src/Program.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2018-08-24 15:08:56.764
+!MESSAGE リソース '/TsuukaTest_2/src/Program.java' が存在しません。
