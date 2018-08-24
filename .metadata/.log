@@ -1584,8 +1584,7 @@ java.lang.IllegalArgumentException: timeout value is negative
 	at java.lang.Thread.sleep(Native Method)
 	at org.eclipse.equinox.internal.p2.updatechecker.UpdateChecker$UpdateCheckThread.run(UpdateChecker.java:87)
 
-!ENTRY mergedoc.encoding 2 0 2018-08-24 15:08:56.763
-!MESSAGE リソース '/TsuukaTest_2/src/Program.java' が存在しません。
-
-!ENTRY mergedoc.encoding 2 0 2018-08-24 15:08:56.764
-!MESSAGE リソース '/TsuukaTest_2/src/Program.java' が存在しません。
+!ENTRY org.eclipse.core.resources 2 2 2018-08-24 15:13:20.400
+!MESSAGE 保存操作の警告。
+!SUBENTRY 1 org.eclipse.core.resources 2 234 2018-08-24 15:13:20.400
+!MESSAGE '142P_6_6_3_3' のプロジェクト記述ファイル (.project) がありませんでした。 このファイルには、プロジェクトに関する重要な情報が含まれています。 新しいプロジェクト記述ファイルが作成されましたが、プロジェクトに関する情報の一部が破損している可能性があります。
