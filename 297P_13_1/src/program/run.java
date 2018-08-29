@@ -9,8 +9,10 @@ public class run {
 	public static void main(String[] args) {
 		randomNumber();
 		NumberOutputs();
-		randomMark();
-		MarkOutputs();
+		if (number2 != 14) {
+			randomMark();
+			MarkOutputs();
+		}
 	}
 	//ランダム処理(数字)
 	public static void randomNumber() {
@@ -52,9 +54,4 @@ public class run {
 			break;
 		}
 	}
-
-	/*今後やること
-	・ジョーカー出たときのマークをスキップする処理
-	・
-	*/
 }
